@@ -1,0 +1,676 @@
+"ï»¿""Subject""",Body,From: (Name),From: (Address),From: (Type),To: (Name),To: (Address),To: (Type),CC: (Name),CC: (Address),CC: (Type),BCC: (Name),BCC: (Address),BCC: (Type),Billing Information,Categories,Importance,Mileage,Sensitivity
+RE: External Open Source: Request New Mastercard Maintained Project,"Ok, the updates to the readmes are complete. Please let me know if there is anything else required from us for this.
+
+Thanks,
+Lebron James
+
+From: Triwedi, Matt 
+Sent: Thursday, August 11, 2022 2:46 PM
+To: James, Lebron
+Cc: Pack, Jumbo
+Subject: RE: External Open Source: Request New Mastercard Maintained Project
+
+Ok, I followed the requirements and added those files. We are still waiting on some final updates to the readmes from our product owner which should be complete by the end of this week.
+
+These are API client reference implementations for our new open APIs exposed on Mastercard Developers and need to be publicly available. 
+
+Matt Triwedi
+
+From: Lebron James
+Sent: Monday, August 8, 2022 3:07 AM
+To: Triwedi, Matt 
+Cc: Pack, Jumbo
+Subject: RE: External Open Source: Request New Mastercard Maintained Project
+
+Hi Matt,
+Thanks.
+For requirements those two repositories must meet, please have a look at Project Expectations And Obligations. In particular, you will need a README, a license, and removing internal stuff (BTE, Artifactory, ...). 
+Also, can you explain why they are good candidate to be open sourced?
+In term of GitHub team(s), can you confirm we can create a single team for all projects?
+Thanks,
+
+Best regards,
+Lebron James
+From: Triwedi, Matt 
+Sent: Wednesday, July 27, 2022 1:17 PM
+To: James, Lebron
+Cc: Pack, Jumbo
+Subject: External Open Source: Request New Mastercard Maintained Project
+
+Hi,I have added two rows to the new Open Source Project list for the project.Please let me know if you need anything from me or have any questions.
+Thanks,
+Matt Triwedi","James, Lebron",,EX,"Ponting, Ricky",,EX;EX,"Pack, Jumbo",,EX;EX;EX,,,,,,Normal,,Normal
+Re: RE: Question on Self Assessment,"Hi Monica,
+Api self-assessment is done when the service is ready to GO LIVE. Prior to that everything should work perfectly fine in all envs.Thanks,
+Jaundice, Johny
+
+From: Wilson, Monica
+Date: Thursday, 18 August 2022 at 15:52
+To: Jaundice, Johny
+Cc: Pandey, Danny
+Subject: RE: Question on Self Assessment
+
+Hello Team,
+Can you please clarify if application onboarding to MA portal in ABC env has to be complete prior to starting API Self-Assessment ? 
+Thankyou,
+Wilson, Monica","Ponting, Ricky",,EX,"Wilson, Monica",,EX;EX,"Mishra, Jason",,EX;EX,,,,,,Normal,,Normal
+Re: Access Request Form,"Thank you Roy,Just to confirm you want to make below path private rather than the drafts? This be making the documentation pages private.
+
+Therefore Validation URLs be below.If above is correct, given PROD is mentioned here, we would need approval from executive level before proceeding.
+
+Best,
+Pack, Jumbo
+
+From: Pack, Jumbo
+Sent: Wednesday, August 17, 2022 7:43 PM
+To: Butcher, Billy
+Cc: Mishra, Jason
+Subject: RE: Access Request Form 
+
+Hi Team,
+
+I have submitted the form mentioned in the email.
+Please let me know if you need additional details.
+Thanks,
+Mishra, Jason
+
+From: Mishra, Jason 
+Sent: Wednesday, August 17, 2022 11:33 AM
+To: James, Lebron
+Cc: Kohli, Virat
+Subject: Re: Access Request Form
+
+Hi Kohli,
+
+Would you be able to make required changes on the repository please?
+Yes, we would need the desired Path. To keep things organized we usually have folks fill out the form below:
+
+Please fill out the form
+
+If PROD is involved we would need approval before doing the task of making the documentation private/protected.
+Best,
+Ranatunga, Ross","Butcher, Billy",,EX,"Ranatunga, Ross",,EX;EX;EX,"Bradman, Don",,EX;EX;EX;EX;EX,,,,,,Normal,,Normal
+Re: Project Collaborator Access ,"Hi David,The projects are only visible to the account holder and we would not be able to add collaborators manually through developer portal.
+
+I am not sure but if it can be done in backend by populating the email in collaborator for particular service (through DB maybe). You can probably get that info from product team.
+Thanks,
+Jaundice, JohnyFrom: Dhawan, David
+Date: Thursday, 18 August 2022 at 14:45
+To: Bradman, Don
+Cc: Pack, Jumbo
+Subject: Project Collaborator Access 
+Hi team,
+Is there a way to get our  email added to projects in Mastercard Developers manually by your team? 
+We are moving vendor that hosts our Issuer Simulator, and we may need to be added as project collaborators for some projects that they may have lost access to.
+Let me know if you need me to join an office hours to explain further. 
+Best regards,
+David Dhawan ","Pack, Jumbo",,EX,"Pack, Jumbo; James, Lebron",,EX;EX,"Mishra, Jason",,EX,,,,,,Normal,,Normal
+RE: Question on Self Assessment,"Hello Team,
+Can you please clarify if application onboarding to KMP in MTF has to be complete prior to starting API Self-Assessment ? 
+Thankyou,
+Wilson, Monica","Jaundice, Johny",,EX,"James, Lebron; Don, John",,EX,"Triwedi, Matt; Bradman, Don",,EX;EX,,,,,,Normal,,Normal
+RE: Custom Create Project Form,"Hi Roy, 
+
+The below custom form is available in 'Request Production access flow'. Please help to enable the same in sandbox flow too. We need in both the flows.
+
+Please help to Create Custom Project Form in
+Please find the request detail in this page : Custom Create Project Form
+For your convenience including the same content here.
+
+Wilson, Monica
+
+From: Roy, Satish
+Sent: Wednesday 2 February 2022 13:58
+To: Wilson, Monica
+
+Cc: Triwedi, Matt
+Subject: RE: Custom Create Project Form
+
+Thank you All, we are able to see the custom fields and can get the fields in kafka message too. _
+
+Regards,
+Roy, Satish
+
+From: Triwedi, Matt
+Sent: Wednesday 2 February 2022 11:55
+To: Mishra, Jason
+Cc: Ranatunga, Ross
+Subject: Re: Custom Create Project Form
+This is done now.
+ 
+
+From: Jaundice, Johny 
+Sent: Monday 31 January 2022 14:48
+To: James, Lebron
+Cc: Wilson, Monica
+Subject: Re : Custom Create Project Form
+
+
+Hi Jaundice,
+
+
+This has been pushed to stage now. Note that there are a couple of concerns that you need to be aware of: 
+
+1.	Your JAMStack context in your service object is incorrect.  The custom form will not work until you fix this. You must also check the same value in your repos pipeline configuration
+2.	Custom forms do not yet support a max length, so this validation will not apply
+3.	The two values being asked for seem like they come from Mastercard and would being going against the grain of Mastercards open API goals. Please ensure that you check with the team that this custom form wonÕt hamper your onboarding/scoring
+
+Best regards,
+
+Wilson, Monica
+ 
+
+From: Jaundice, Johny
+Sent: Thursday 27 January 2022 15:26
+To: James, Lebron
+Cc:  Wilson, Monica
+Subject: Custom Create Project Form
+
+Hi Team,
+
+Please help to Create Custom Project Form in Stage developer environment
+
+
+Please find the request detail in this page : Custom Create Project Form 
+
+For your convenience including the same content here.
+
+Please include following fields in 'Create Project flow'.
+
+
+Regards, 
+
+Jaundice, Johny
+ 
+
+From: Ponting, Ricky
+Sent: 31 January 2022 20:35
+To: Mishra, Jason
+Cc: Pack, Jumbo
+Subject: RE: Stage : Custom Create Project Form
+
+Hi Jason,
+
+PFB , response from Team, can you please help to fix below recommendation ? 
+
+1.	Your JAMStack context in your service object is incorrect. The custom form will not work until you fix this. You must also check the same value in your repos pipeline configuration
+
+Quires :
+
+- Shall we just update below name ?
+
+*	Any update required from repo side ? will you be able to fix it from your end ?
+
+ 
+
+Ricky
+ 
+
+From: Mishra, Jason
+Sent: Monday 31 January 2022 14:48
+To: Pack, Jumbo
+Cc: Ponting, Ricky
+Subject: Re: Stage : Custom Create Project Form
+
+Hi Jumbo,
+
+This has been pushed to stage now. Note that there are a couple of concerns that you need to be aware of:
+
+1.	Your JAMStack context in your service object is incorrect. The custom form will not work until you fix this. You must also check the same value in your repos pipeline configuration
+2.	Custom forms do not yet support a max length, so this validation will not apply
+3.	The two values being asked for seem like they come from Mastercard and would being going against the grain of MastercardÃ¢Â€Â™s open API goals. Please ensure that you check with the API team that this custom form wonÃ¢Â€Â™t hamper your onboarding/scoring
+
+Best regards,
+Mishra, Jason
+
+ 
+
+From: Ponting, Ricky
+Date: Monday, 31 January 2022 at 10:03
+To: Pack, Jumbo
+Cc: Mishra, Jason
+Subject: RE: Stage : Custom Create Project Form
+
+Hi Pack, Jumbo
+
+Can you please help to progress below request.
+
+Regards,
+Jason
+
+From: Pack, Jumbo
+Sent: Thursday 27 January 2022 15:26
+To: Mishra, Jason
+Cc: James, Lebron
+Subject: Stage : Custom Create Project Form
+
+Hi Team,
+
+Please help to Create Custom Project Form in Stage developer environment
+
+Please find the request detail in this page : Custom Create Project Form
+
+For your convenience including the same content here.
+ 
+
+Please include following fields in 'Create Project flow'.","Wilson, Monica",,EX,"Ponting, Ricky; Dhawan, David",,EX,"Butcher, Billy; Bradman, Don",,EX;EX;EX;EX;EX;EX,,,,,,Normal,,Normal
+Project Collaborator Access ,"Hi David,The projects are only visible to the account holder and we would not be able to add collaborators manually through developer portal.
+
+I am not sure but if it can be done in backend by populating the email in collaborator for particular service (through DB maybe). You can probably get that info from product team.
+Thanks,
+Jaundice, JohnyFrom: Dhawan, David
+Date: Thursday, 18 August 2022 at 14:45
+To: Bradman, Don
+Cc: Pack, Jumbo
+Subject: Project Collaborator Access 
+Hi team,
+Is there a way to get our  email added to projects in Mastercard Developers manually by your team? 
+We are moving vendor that hosts our Issuer Simulator, and we may need to be added as project collaborators for some projects that they may have lost access to.
+Let me know if you need me to join an office hours to explain further. 
+Best regards,
+David Dhawan ","Roy, Satish",,EX,"Roy, Satish",,EX,"Triwedi, Matt; Bradman, Don",,EX,,,,,,Normal,,Normal
+Re: Request to rename existing repo,"Hello Dhawan, David
+
+WO is completed to make the new link to the documentation private in STAGE.
+
+Best,
+Ponting, Ricky
+
+
+From: Jaundice, Johny
+Sent: Tuesday, August 16, 2022 12:35 PM
+To: James, Lebron
+Cc: Roy, Satish
+Subject: Re: Request to rename existing repo 
+ 
+Thank you, appreciate the quick turnaround!
+
+
+Jaundice, Johny
+
+
+From: Wilson, Monica
+Date: Tuesday, August 16, 2022 at 12:34 PM
+To: Roy, Satish
+Cc: James, Lebron
+Subject: Re: Request to rename existing repo
+
++API  as fyi for making Stage documentation private/protected.
+
+
+Hello James, Lebron
+
+Repo rename is completed. New link would be below:
+
+As far as making the new documentation link private in Stage Only. Below WO has been created. Shall let you know of updates as they come up.
+
+Best,
+Wilson, Monica
+
+
+From: Wilson, Monica
+Sent: Tuesday, August 16, 2022 11:37 AM
+To: Roy, Satish
+Cc:  James, Lebron
+Subject: Request to rename existing repo 
+
+Hi Team,
+
+Can you please rename the existing repo, details below:
+
+Project:  XYZ
+
+Current Repo Name : XYZ repo
+
+New Repo name : ABC repo
+
+We also need to add akamai rules back on the STAGE ONLY for role-based restrictions. Please do the needful and reach out in case of any Questions
+
+Regards,
+James, Lebron
+ 
+
+From: Ranatunga, Ross
+Date: Tuesday, August 16, 2022 at 12:34 PM
+To: Pack, Jumbo
+Cc: Wilson, Monica
+Subject: Re: Request to rename existing repo
+
++API as fyi for making Stage documentation private/protected.
+
+Hello Ross,
+
+Repo rename is completed. New link would be below:
+
+As far as making the new documentation link private in Stage Only. Below WO has been created. Shall let you know of updates as they come up.
+
+Best,
+Ranatunga, Ross
+
+
+From: Pack, Jumbo
+Sent: Tuesday, August 16, 2022 11:37 AM
+To: Wilson, Monica
+Cc: Ranatunga, Ross
+Subject: Request to rename existing repo 
+ 
+Hi Team,
+
+Can you please rename the existing repo, details below:
+
+We also need to add akamai rules back on the STAGE ONLY for role-based restrictions. Please do the needful and reach out in case of any Questions
+
+Regards,
+Pack, Jumbo","Dhawan, David",,EX,"Don, John",,EX,"Don, John; Roy, Satish",,EX;EX;EX,,,,,,Normal,,Normal
+Re: Early Review - Change Swagger TP,"So you need to use your previous folder and make the changes there instead of creating a new folder. This way we will only review the updates.
+
+
+Thanks,
+
+Jaundice, Johny
+
+
+From: Dhawan, David
+Date: Thursday, 18 August 2022 at 12:42
+To: Jaundice, Johny
+Cc: Pandey, Danny
+Subject: RE: Early Review - Change Swagger TP
+
+Hi Johny 
+
+Yes it’s in the develop portal already.
+
+Regards.
+Dhawan, David
+
+
+From: Jaundice, Johny
+Sent: Thursday, August 18, 2022 8:32 AM
+To: Dhawan, David
+Cc: Pandey, Danny
+Subject: Re: Early Review - Change Swagger TP
+
+Hi David,
+
+Can you confirm if it is a new API being onboarded on Developer portal?
+I see you only wrote changed in Latest Update section in the PR description but looks like you added a whole new folder for this API.
+
+Also, if this is a new API then provide a feature exchange number which must have been created for onboarding.
+
+We will do the sanity check once we have these details.
+
+Thanks,
+Johny
+
+
+From: Pandey, Danny
+Date: Wednesday, 17 August 2022 at 16:49
+To: Dhawan, David
+Subject: Early Review - Change Swagger TP
+
+Hello how are you ?
+
+I opened this PR to the early review. And the link of the PR is this one.  I am available for any questions.
+
+Could you guys please review.
+
+Regards.
+Danny","Mishra, Jason",,EX,"Roy, Satish",,EX;EX;EX;EX;EX;EX;EX;EX;EX;EX;EX,"Triwedi, Matt; Bradman, Don",,EX,,,,,,Normal,,Normal
+Re: Early Review - Change Swagger TP,"So you need to use your previous folder and make the changes there instead of creating a new folder. This way we will only review the updates.
+
+
+Thanks,
+
+Jaundice, Johny
+
+
+From: Dhawan, David
+Date: Thursday, 18 August 2022 at 12:42
+To: Jaundice, Johny
+Cc: Pandey, Danny
+Subject: RE: Early Review - Change Swagger TP
+
+Hi Johny 
+
+Yes it’s in the develop portal already.
+
+Regards.
+Dhawan, David
+
+
+From: Jaundice, Johny
+Sent: Thursday, August 18, 2022 8:32 AM
+To: Dhawan, David
+Cc: Pandey, Danny
+Subject: Re: Early Review - Change Swagger TP
+
+Hi David,
+
+Can you confirm if it is a new API being onboarded on Developer portal?
+I see you only wrote changed in Latest Update section in the PR description but looks like you added a whole new folder for this API.
+
+Also, if this is a new API then provide a feature exchange number which must have been created for onboarding.
+
+We will do the sanity check once we have these details.
+
+Thanks,
+Johny
+
+
+From: Pandey, Danny
+Date: Wednesday, 17 August 2022 at 16:49
+To: Dhawan, David
+Subject: Early Review - Change Swagger TP
+
+Hello how are you ?
+
+I opened this PR to the early review. And the link of the PR is this one.  I am available for any questions.
+
+Could you guys please review.
+
+Regards.
+Danny","Don, John",,EX,"Don, John",,EX;EX;EX;EX;EX;EX;EX;EX;EX;EX;EX,"Don, John; Roy, Satish",,EX,,,,,,Normal,,Normal
+Re: Service onboarding,"Hi Bobby,
+
+I have approved both the requests.
+
+Thanks,
+
+Wilson, Monica
+
+From: Roy, Satish
+Date: Thursday, 18 August 2022 at 04:12
+To: Wilson, Monica
+Subject: Re: Service Consumer Clarity Digital Call Center Add-On
+
+Yes, please!
+
+Thank You,
+Ranatunga, Ross
+
+
+From: Wilson, Monica
+Sent: Wednesday, August 17, 2022 4:57:52 AM
+To: Roy, Satish
+Subject: Re: Service onboarding
+
+ 
+Hi Satish,
+
+Service Owners should approve them. If you don’t have access to that, then contact Onboarding team to get required access.
+
+I can approve meanwhile if you require?
+
+Thanks,
+
+Monica
+
+From: Ponting, Ricky
+Date: Tuesday, 16 August 2022 at 22:25
+To: Wilson, Monica
+Subject: Re: Service onboarding
+
+Hi Monica,
+
+Yes, those are the two requests.  Do you know who can approve them?
+
+Thank you,
+
+Ricky
+
+From: Butcher, Billy
+Date: Tuesday, August 16, 2022 at 5:50 AM
+To: Mishra, Jason
+Subject: Re: Service onboarding
+
+Hi Jason,
+
+I see 2 Pending Production requests in stage Admin tool
+
+Can you confirm are you talking about these? You can see pending requests in Admin tool. Follow the below page for more info:
+
+If you don’t have access to view the requests, contact Onboarding team.
+
+Thanks,
+
+Billy
+
+From: Mishra, Jason
+Date: Monday, 15 August 2022 at 22:19
+To: Butcher, Billy
+Subject: Service onboarding
+
+Hello,
+
+I have someone who submitted requests in stage dev zone to configure call center add on for the nonp/stage keys, but the requests remains ""UNDER REVIEW"" status.  I don’t show any approval requests.
+
+I am unable to change anything on the Environment Setup and Keys & Cert tabs.
+
+Can you please tell me what I have done wrong in my set up?
+
+Thank you,
+Jason","Ranatunga, Ross",,EX,"Ranatunga, Ross",,EX;EX,"Triwedi, Matt; Bradman, Don",,,,,,,,Normal,,Normal
+Re: Go language implementation of client encryption library,"Hi John,
+
+One of our customer is using the GO lang encryption library provided by Mastercard, and current version only supports A256GCM algorithm. But our service is using A128GCM for the encrypt payload in checkout response.
+
+Do you know whether it will possible to change this algorithm to A256GCM?
+
+Best Regards
+James, Lebron
+
+From:  Don, John
+Sent: Thursday, August 18, 2022 5:16 PM
+To: James, Lebron
+Subject: Re: Go language implementation of client encryption library
+
+Hi James,
+
+All of our encryption libraries only support 2 methods of decryption, âA128CBC-HS256â and âA256GCMâ.
+
+When we initially started development on these libraries, we did an audit of all of the services that offered JWE encryption on Mastercard Developers and only found these 2.
+
+The expectation from Mastercard Services is that they use 1 of the 2 supported encryption methods.
+
+There are a large number of encryption methods that can be used with JWE, and supporting all of them for all of the languages we support would be unmaintainable.
+
+Is it possible for the service to change the method of encryption it uses?
+
+Best Regards,
+ Don, John
+
+From: James, Lebron
+Date: Thursday, 18 August 2022 at 07:50
+To: Don, John
+Subject: FW: Go language implementation of client encryption library
+
+Hi Team,
+
+Current GO lang encryption library doesn't support A128GCM which is used by our service, is this possible to upgrade? Thanks!
+
+Best Regards
+James, Lebron
+
+From: Don, John
+Sent: Thursday, August 18, 2022 11:26 AM
+To: James, Lebron
+Cc: Pack, Jumbo
+Subject: RE: Go language implementation of client encryption library
+
+Hi Team,
+
+Our customer is reporting that this Go lang encryption library does not support the algorithm A128GCM which is returned in checkout api response. Below is an example of encrypted payload in production environment.
+
+After decoding encryptedCard, we can get
+
+While current library only supports A256GCM, shall we upgrade to support the scenario of our own service. 
+
+Best Regards
+Don, John
+
+From: Ponting, Ricky
+Sent: Wednesday, July 20, 2022 9:06 PM
+To: Pack, Jumbo
+Cc: Mishra, Jason 
+Subject: Re: Go language implementation of client encryption library
+
+Hi Jumbo, 
+
+The encryption library for GO lang has just been released, please find more details.
+Thanks,
+
+Regards,
+Ponting, Ricky
+
+From: Ponting, Ricky
+Date: Wednesday, May 11, 2022 at 1:56 AM
+To: Pack, Jumbo
+Subject: RE: Go language implementation of client encryption library
+
+Hi John,
+
+Thanks for you reply, I will keep on tracking the update in the channel.
+
+Best Regards
+
+Ponting, Ricky
+ 
+
+From: Mishra, Jason 
+Sent: Wednesday, May 11, 2022 2:17 AM
+To: Pack, Jumbo
+Subject: Re: Go language implementation of client encryption library
+
+Hi Jumbo, 
+
+Unfortunately, the encryption library is not yet available for GO lang. However, we collaborated with internal developers who are working on adding a Go library and JWE support to our suite of encryption libraries. I don’t have a timeline yet for when it will available. We announce updates and new releases on our teams channel. I would suggest you join that channel.
+
+If your service is using JWE (current Mastercard Developers API Standard  there should be alternatives customers can use to implement JWE 
+
+Thanks,
+
+Regards,
+Mishra, Jason
+ 
+From: Pack, Jumbo
+Date: Sunday, May 8, 2022 at 22:03
+To: Mishra, Jason
+Subject: Go language implementation of client encryption library
+
+Hi Jason,
+
+Trust you are doing great.
+
+I would like to consult you that whether we have Go language version of client encryption library,  cause one of our customer is doing integration with our service using Go. It seems we only have oauth1-signer-go currently, but no client-encryption-go, do we have any solution for this scenario?
+
+Best Regards
+
+Pack, Jumbo","Triwedi, Matt",,EX,"Triwedi, Matt",,EX;EX,"Don, John",,,,,,,,Normal,,Normal
+[PROD] DB updates for the assessment tool,"Hi Bobby,
+
+We have created a WO for some DDL & DML updates for the DB used by the assessment tool in production
+We have also added an entry to the following page
+Please let us know if you need any additional information from us.
+Best Regards,
+Johny
+","Kohli, Virat",,EX,"Ranatunga, Ross",,EX,"Triwedi, Matt",,EX,,,,,,Normal,,Normal
